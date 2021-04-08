@@ -1,0 +1,12 @@
+C:\Users\konst\source\repos\KostasZaraftisPrtB\KostasZaraftisPrtB\obj\Debug\KostasZaraftisPrtB.csprojAssemblyReference.cache
+C:\Users\konst\source\repos\KostasZaraftisPrtB\KostasZaraftisPrtB\bin\Debug\KostasZaraftisPrtB.exe.config
+C:\Users\konst\source\repos\KostasZaraftisPrtB\KostasZaraftisPrtB\bin\Debug\KostasZaraftisPrtB.exe
+C:\Users\konst\source\repos\KostasZaraftisPrtB\KostasZaraftisPrtB\bin\Debug\KostasZaraftisPrtB.pdb
+C:\Users\konst\source\repos\KostasZaraftisPrtB\KostasZaraftisPrtB\obj\Debug\KostasZaraftisPrtB.exe
+C:\Users\konst\source\repos\KostasZaraftisPrtB\KostasZaraftisPrtB\obj\Debug\KostasZaraftisPrtB.pdb
+C:\Users\konst\Downloads\bootcamp\KostasZaraftis individualProjectB\KostasZaraftisPrtB\KostasZaraftisPrtB\bin\Debug\KostasZaraftisPrtB.exe.config
+C:\Users\konst\Downloads\bootcamp\KostasZaraftis individualProjectB\KostasZaraftisPrtB\KostasZaraftisPrtB\bin\Debug\KostasZaraftisPrtB.exe
+C:\Users\konst\Downloads\bootcamp\KostasZaraftis individualProjectB\KostasZaraftisPrtB\KostasZaraftisPrtB\bin\Debug\KostasZaraftisPrtB.pdb
+C:\Users\konst\Downloads\bootcamp\KostasZaraftis individualProjectB\KostasZaraftisPrtB\KostasZaraftisPrtB\obj\Debug\KostasZaraftisPrtB.csprojAssemblyReference.cache
+C:\Users\konst\Downloads\bootcamp\KostasZaraftis individualProjectB\KostasZaraftisPrtB\KostasZaraftisPrtB\obj\Debug\KostasZaraftisPrtB.exe
+C:\Users\konst\Downloads\bootcamp\KostasZaraftis individualProjectB\KostasZaraftisPrtB\KostasZaraftisPrtB\obj\Debug\KostasZaraftisPrtB.pdb
